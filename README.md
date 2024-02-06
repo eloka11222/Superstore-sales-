@@ -64,6 +64,6 @@ the model was built on a star schema with a 1 to many relationship between the f
 using Bookmarks, I was able to compress the visuals to be able to swap visuals and navigate from a visual to another. 
 I was also able to use a single card to show two KPIs which further compressed the entire visual making it compact. 
 
-Conclusion
+## Conclusion
 This project was used to highlight the power of bookmarking and conserving space for visualization. It helped me create this app like report and perfected my skills in bookmarking. 
 you can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZWUxYmM0MzYtMGExNC00ODcwLThiMDAtNGQxNDY4NGI2YWM0IiwidCI6Ijk0OTg2MDlmLTAxNWMtNDgwMS05MjA4LWNiMzdjYWFkMzc1YSIsImMiOjZ9)
